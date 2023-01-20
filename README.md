@@ -1,1 +1,2 @@
 # Sixth-brain-teaser
+A real estate contractor, whose focus is on Lekki environment, has over 120 buildings up for sale. Each of these buildings are priced over fifteen million naira. Twenty of the buildings, have colors ranging from pink to brown, in a styled manner. The title of the first five buildings are Kamin's Consruction while the title of the next five, are Biggs Construction. Other are Tomi's and Pats constructions respectively. Deduce the brain teaser.
